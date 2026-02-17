@@ -11,3 +11,4 @@
 
 \- Анализатор логов на Go
 
+[Калькулятор на Python](https://github.com/ReLLiX-you-know/calculator)
